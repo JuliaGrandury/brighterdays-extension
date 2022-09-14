@@ -1,10 +1,8 @@
-# brighterdays-chromeextension
-
 <!-- PROJECT TITLE PAGE -->
 <br />
 <div align="center">
   <img src="https://wallpaperaccess.com/full/463542.jpg" alt="Logo" width="140" height="100">
-  <h3 align="center">A Chrome Extension To Brighten Your Day</h3>
+  <h1 align="center">Brighter Days Chrome Extension</h1>
 </div>
 
 
@@ -33,7 +31,7 @@ You will need to have Node.js and npm package manager installed. If you do not, 
 
 1. Clone the repo into your desired folder with
    ```sh
-   git clone https://github.com/JuliaGrandury/happier-extension.git
+   git clone https://github.com/JuliaGrandury/brighterdays-extension.git
    ```
 2. Go to Google Chrome > Window > Extensions > Load Unpacked > Select the location of the cloned repository or Google Chrome Extensions (by your address bar) > Manage Extensions > Load Unpacked > Select the location of the cloned repository. There you can toggle it on or off as you'd like.
 
@@ -48,16 +46,6 @@ You will need to have Node.js and npm package manager installed. If you do not, 
 - [ ] Improve loading time
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-Some helpful resources I used for various parts of my project.
-- [Coding A Chrome Extension in JavaScript Tutorial](https://www.youtube.com/watch?v=zHIryKuhYA4)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
