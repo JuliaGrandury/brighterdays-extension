@@ -14,11 +14,9 @@
 
 **TL;DR** In a world where we are constantly solicited by angering or saddening news, we could all use a little more serotonin. 
 
-See the same New York Times page (nytimes.com/section/politics) with and without the extension:
-
-<img width="500" alt="withoutextension" src="https://user-images.githubusercontent.com/46718089/190278266-06ee9834-e7a1-4b6f-99bb-fb7f32f3fab0.png">
-<img width="500" alt="withextension" src="https://user-images.githubusercontent.com/46718089/190278278-543c1992-a88a-4cce-b09c-cc2393ff1311.png">
-
+#### See the same New York Times page at "nytimes.com/section/politics" with and without the extension:
+<img src="assets/withoutextension.png" width="1000"/>
+<img src="assets/withextension.png" width="1000"/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
