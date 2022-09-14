@@ -14,6 +14,10 @@
 
 **TL;DR** In a world where we are constantly solicited by angering or saddening news, we could all use a little more serotonin. 
 
+<img width="1280" alt="withoutextension" src="https://user-images.githubusercontent.com/46718089/190278266-06ee9834-e7a1-4b6f-99bb-fb7f32f3fab0.png">
+<img width="793" alt="withextension" src="https://user-images.githubusercontent.com/46718089/190278278-543c1992-a88a-4cce-b09c-cc2393ff1311.png">
+
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
