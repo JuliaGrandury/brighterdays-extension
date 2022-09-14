@@ -16,8 +16,8 @@
 
 See the same New York Times page at "nytimes.com/section/politics" with and without the extension:
 <p float="left">
-  <img src="assets/withoutextension.png" width="100" />
-  <img src="assets/withextension.png" width="100" />
+  <img src="assets/withoutextension.png" width="500" />
+  <img src="assets/withextension.png" width="500" />
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
