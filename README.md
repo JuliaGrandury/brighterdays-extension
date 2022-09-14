@@ -1,7 +1,7 @@
 <!-- PROJECT TITLE PAGE -->
 <br />
 <div align="center">
-  <img src="https://img.icons8.com/doodle/48/000000/summer.png" alt="Logo" width="140" height="100">
+  <img src="https://img.icons8.com/doodle/48/000000/summer.png" alt="Logo" width="120">
   <h1 align="center">Brighter Days Chrome Extension</h1>
 </div>
 
