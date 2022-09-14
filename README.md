@@ -62,6 +62,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Julia Grandury - booleanjules@gmail.com
 
-Project Link: [https://github.com/JuliaGrandury/brighterdays-chromeextension](https://github.com/JuliaGrandury/brighterdays-chromeextension)
+Project Link: [https://github.com/JuliaGrandury/brighterdays-extension](https://github.com/JuliaGrandury/brighterdays-extension)
 
 <p align="right">(<a href="#top">back to top</a>)</p>

@@ -1,10 +1,13 @@
 const puppyImages = [
+    "https://images.unsplash.com/photo-1601979031925-424e53b6caaa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHVwcHl8ZW58MHx8MHx8&w=1000&q=80",
+    "https://dundeeanimalhospital.com/wp-content/uploads/2021/12/puppy-kane-county.jpg",
     "https://www.readersdigest.ca/wp-content/uploads/2013/03/6-facts-to-know-before-owning-a-puppy.jpg",
-    "https://images.squarespace-cdn.com/content/v1/54e7a1a6e4b08db9da801ded/7f2dae36-5650-4b84-b184-684f46fe68aa/98.jpg",
     "https://i.natgeofe.com/k/559a884a-41d7-4731-b940-96f4cf2c8831/puppy-life-book-5_2x1.jpg",
-    "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg",
-    "https://cdn.shopify.com/s/files/1/0272/4770/6214/articles/when-do-puppies-start-walking_800x800.jpg?v=1593020034",
-    "https://cdn.shopify.com/s/files/1/0272/4770/6214/articles/when-do-puppies-start-walking_800x800.jpg?v=1593020034"
+    "https://static.scientificamerican.com/sciam/cache/file/D059BC4A-CCF3-4495-849ABBAFAED10456_source.jpg?w=590&h=800&526ED1E1-34FF-4472-B348B8B4769AB2A1",
+    "https://gfp-2a3tnpzj.stackpathdns.com/wp-content/uploads/2019/12/Puppy-Carousel-main-590x538.jpg",
+    "https://dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-2.jpg",
+    "https://bestlifeonline.com/wp-content/uploads/sites/3/2019/12/shutterstock_556211362.jpg",
+    "https://s.yimg.com/ny/api/res/1.2/1a59KFbXVN.Wb9Ss9Y2aVA--/YXBwaWQ9aGlnaGxhbmRlcjtoPTY2Ng--/https://media.zenfs.com/en-US/best_life_342/a5438d3ac73430dcb1d6563d50f5ed88"
 ]
 
 const motivationalQuotes = [
