@@ -15,10 +15,8 @@
 **TL;DR** In a world where we are constantly solicited by angering or saddening news, we could all use a little more serotonin. 
 
 See the same New York Times page at "nytimes.com/section/politics" with and without the extension:
-<p float="center" align-items="center">
-  <img src="assets/withoutextension.png" width="500" border="1px solid black"/>
-  <img src="assets/withextension.png" width="500" border="1px solid black"/>
-</p>
+<img src="assets/withoutextension.png" width="1000"/>
+<img src="assets/withextension.png" width="1000"/>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
